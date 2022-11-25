@@ -1,0 +1,20 @@
+p {
+    background-color: lightgreen;
+}
+
+li {
+    color:darkgreen;
+}
+
+h3 {
+    font-style:times;
+}
+
+img {
+    opacity: 0.7;
+    border-radius: 80%;
+}
+
+.avatar {
+    width:200px;
+}
